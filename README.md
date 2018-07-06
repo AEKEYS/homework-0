@@ -1,2 +1,2 @@
 # homework-0
-Getting reacquainted with git
+This repo is part of the HarvardX course, "Data Science: Productivity Tools" and is meant to help students get reacquainted with git.
